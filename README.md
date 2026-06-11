@@ -1,2 +1,1 @@
-# Bright-Coffee-Shop---Control-Flow-Practical
-Python control flow practical using real coffee shop sales data  completed as part of the BrightLearn Data Analytics course on Databricks.
+This notebook applies Python control flow concepts to a real-world coffee shop sales dataset (~149,000 transactions across three New York store locations). Each task is framed as a business scenario, covering if/elif/else for transaction classification, for loops for store and hourly summaries, a while loop for cumulative revenue tracking, and reusable functions for store reporting. Built and run on the Databricks platform using pandas.
